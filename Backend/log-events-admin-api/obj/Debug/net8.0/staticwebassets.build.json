@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZqYW1QLU9DaUcMDsIQjyhvH6SIXonP9pT/gFg06iiA0=",
+  "Source": "log-events-admin-api",
+  "BasePath": "_content/log-events-admin-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

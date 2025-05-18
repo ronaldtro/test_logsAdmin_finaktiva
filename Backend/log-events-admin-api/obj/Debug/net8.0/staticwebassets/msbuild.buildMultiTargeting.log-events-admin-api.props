@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\log-events-admin-api.props" />
+</Project>

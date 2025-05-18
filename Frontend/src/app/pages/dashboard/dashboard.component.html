@@ -1,0 +1,54 @@
+<div class="content d-flex flex-column min-vh-100">
+    
+    <!-- Navbar -->
+    <nav class="navbar sticky-top bg-dark navbar-expand-lg">
+
+        <div class="container-fluid">
+            <a class="navbar-brand text-light" routerLink="/sign-in">
+                Admin Logs
+            </a>
+
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                aria-label="Toggle navigation">
+
+                <i class="bi bi-list text-light"></i>
+
+            </button>
+
+            <div  class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link text-light" aria-current="page" routerLink="/dashboard/log-register">
+                            Registrar log
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a routerLink="/dashboard/logs" class="nav-link text-white">Ver logs</a>
+                    </li>
+                </ul>
+            </div>
+
+        </div>
+    </nav>
+
+    <main class="flex-fill">
+        <router-outlet></router-outlet>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-dark text-light py-4 mt-auto">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <h5>Mi Proyecto</h5>
+                    <p>© 2025 Todos los derechos reservados.</p>
+                </div>
+                <div class="col-md-6 text-md-end">
+                    <a href="#" class="text-light me-3">Política</a>
+                    <a href="#" class="text-light">Contacto</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+</div>

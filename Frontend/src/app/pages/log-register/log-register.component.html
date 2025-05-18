@@ -1,0 +1,50 @@
+<div class="container py-5">
+    <form [formGroup]="logForm" (ngSubmit)="submit()">
+        <div class="row mb-3">
+            <div class="offset-sm-2 col-sm-7">
+                <h3>Registrar log</h3>
+            </div>
+        </div>
+        <div class="row mb-3">
+            <div class="offset-sm-2 col-sm-7">
+                <label for="inputDate" class="col-sm-0 col-form-label">
+                    Fecha (*)
+                </label>
+                <input formControlName="date" type="date" class="form-control" id="inputDate">
+                <div class="alert alert-warning p-1 mt-2"
+                    *ngIf="logForm.get('date')?.invalid && logForm.get('date')?.touched" role="alert">
+                    Fecha invalida.
+                </div>
+            </div>
+        </div>
+        <div class="row mb-3">
+            <div class="offset-sm-2 col-sm-7">
+                <label for="inputDescription" class="col-sm-0 col-form-label">
+                    Descripción (*)
+                </label>
+                <input formControlName="description" type="text" class="form-control" id="inputDescription">
+                <div class="alert alert-warning p-1 mt-2"
+                    *ngIf="logForm.get('description')?.invalid && logForm.get('description')?.touched">
+                    Descripcion invalida.
+                </div>
+            </div>
+        </div>
+        <div class="row mb-5">
+            <div class="offset-sm-2 col-sm-7">
+                <label for="inputType" class="col-sm-0 col-form-label">
+                    Tipo (*)
+                </label>
+                <input value="Manual"  type="text" class="form-control" id="inputType" disabled>
+            </div>
+        </div>
+        <div class="row mb-4">
+            <div class="offset-sm-2 col-sm-7">
+                <button type="submit" class="btn btn-primary w-100">
+                    <SpinnerComponent *ngIf="spinner == true" />
+                    <span *ngIf="spinner == false">Registrar</span>
+                </button>
+            </div>
+        </div>
+    </form>
+
+</div>

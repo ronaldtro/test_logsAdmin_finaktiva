@@ -19,8 +19,7 @@ Este repositorio contiene una aplicación completa de gestión de eventos (Event
 
 Clona el repositorio:
 
-git clone https://github.com/tu-usuario/tu-repo.git
-cd tu-repo/backend
+git clone: https://github.com/ronaldtro/test_logsAdmin_finaktiva
 
 Ajusta la cadena de conexión en appsettings.json:
 

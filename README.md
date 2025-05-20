@@ -6,9 +6,10 @@
 
 </div>
 
-## STACK
+
 <div align="center">
 
+### STACK
 ![Angular][angular-badge]
 ![DotNet][dotnet-badge]
 ![CSharp][csharp-badge]

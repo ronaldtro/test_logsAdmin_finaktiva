@@ -2,45 +2,34 @@
 
 <div align="center">
 
-## Proyecto prueba desarrollador - Proyecto de Gestión de Event Logs
+## Proyecto - Proyecto de Gestión de Event Logs
 
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Inicio
+## INICIO
 
-Este repositorio contiene una aplicación completa de gestión de eventos (Event Logs) con dos capas principales:
+- BACKEND: API REST construida con ASP.NET Core 8 y Entity Framework Core.
+- FRONTEND: SPA construida con Angular (Standalone Components) que consume la API y muestra los eventos con filtros.
 
-- Backend: API REST construida con ASP.NET Core 8 y Entity Framework Core para la persistencia.
-- Frontend: SPA construida con Angular (Standalone Components) que consume la API y muestra los eventos con filtros.
+## CONFIGURACION INICIAL
+
+- git clone: https://github.com/ronaldtro/test_logsAdmin_finaktiva
 
 ## BACKEND
 
-Clona el repositorio:
+- cd /backend
 
-git clone: https://github.com/ronaldtro/test_logsAdmin_finaktiva
+- Ajusta la cadena de conexión local en appsettings.json:
+"Connection": "Server=(Tu instancia)\\SQLEXPRESS; DataBase=(Registration); Trusted_Connection=True; TrustServerCertificate=True;"
 
-Ajusta la cadena de conexión en appsettings.json:
 
-"ConnectionStrings": {
-  "RegistrationDb": "Server=TU_SERVIDOR;Database=Registration;User Id=xx;Password=yy;TrustServerCertificate=True;"
-}
+Instala las dependencias y compila la solición:
 
-Instala las dependencias y aplica migraciones:
+- Click derecho a la solución y restaurar paquetes NuGet.
+- Compilar solución y ejecutar.
 
-dotnet restore
-dotnet ef database update
-
-Ejecución:
-
-Para levantar la API en modo desarrollo:
-
-cd backend
-dotnet run
-
-Por defecto se publicará en https://localhost:5001 y http://localhost:5000.
-Accede a Swagger UI en https://localhost:5001/swagger.
 
 Detalles de Diseño:
 
@@ -54,34 +43,22 @@ Detalles de Diseño:
 
 - Filtros: Consulta de logs en base de datos aplicando filtros EventTypeId, DateFrom, DateTo.
 
+
 ## FRONTEND
 
-El frontend es una SPA en Angular que consume la API y muestra los logs con filtros dinámicos.
+- cd /frontend
 
-Configuración (Frontend)
+Instalar dependencias:
 
-Navega a la carpeta del cliente:
+- npm install ó yarn install
 
-cd tu-repo/frontend
 
-Instala dependencias:
+Ejecucion servidor local:
 
-npm install
-o
-yarn install
+- ng serve 
 
-Ejecución (Frontend)
 
-Para levantar el servidor de desarrollo Angular:
-
-Dentro del frontend
-npm start
-o
-ng serve --open
-
-El cliente correrá por defecto en http://localhost:4200 y se comunicará con el backend en el puerto 5001.
-
-Detalles de Diseño (Frontend):
+Detalles del Diseño:
 
 - Standalone Components: Uso de @Component({ standalone: true }) para reducir módulos.
 
@@ -91,7 +68,7 @@ Detalles de Diseño (Frontend):
 
 - Manejo de Errores: Alertas globales (WarningAlert, DangerAlert) y botón de carga deshabilitado.
 
-- UX: Indicadores de carga y mensajes cuando no hay coincidencias.
+- UX: Indicadores de carga y mensajes.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -115,4 +92,3 @@ Detalles de Diseño (Frontend):
 [angular-badge]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge
 [csharp-badge]: https://img.shields.io/badge/C%23-690081?style=for-the-badge
 [sqlserver-badge]: https://img.shields.io/badge/SQL%20Server-1f72b8?style=for-the-badge
-[badge-empty-url]: #!

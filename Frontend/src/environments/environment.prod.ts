@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl: 'https://api.miapp.com'
+  apiUrl: "https://eventlogsapi.somee.com"
 };

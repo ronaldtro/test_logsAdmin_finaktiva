@@ -83,10 +83,10 @@ Detalles del Diseño:
 
 ## Stack
 
-[![Angular][angular-badge]][badge-empty-url]
-[![DotNet][dotnet-badge]][badge-empty-url]
-[![CSharp][csharp-badge]][badge-empty-url]
-[![SQLServer][sqlserver-badge]][badge-empty-url]
+![Angular][angular-badge]
+![DotNet][dotnet-badge]
+![CSharp][csharp-badge]
+![SQLServer][sqlserver-badge]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

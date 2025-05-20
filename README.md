@@ -6,7 +6,15 @@
 
 </div>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## STACK
+<div align="center">
+
+![Angular][angular-badge]
+![DotNet][dotnet-badge]
+![CSharp][csharp-badge]
+![SQLServer][sqlserver-badge]
+
+</div>
 
 ## INICIO
 
@@ -75,18 +83,10 @@ Detalles del Diseño:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### By
+### BY
 
  [![ronaldtro](https://avatars.githubusercontent.com/u/72902488?s=64&amp;v=4)](http://github.com/ronaldtro) 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Stack
-
-![Angular][angular-badge]
-![DotNet][dotnet-badge]
-![CSharp][csharp-badge]
-![SQLServer][sqlserver-badge]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

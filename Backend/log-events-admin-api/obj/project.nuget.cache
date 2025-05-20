@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ou1QDATrq3s=",
+  "dgSpecHash": "c49q6sUcFms=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ronald87\\Desktop\\Seleccion Finaktiva\\api - copia\\log-events-admin-api\\log-events-admin-api\\log-events-admin-api.csproj",
+  "projectFilePath": "C:\\Users\\ronald87\\Desktop\\Seleccion Finaktiva\\logs-admin\\Backend\\log-events-admin-api\\log-events-admin-api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ronald87\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\ronald87\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

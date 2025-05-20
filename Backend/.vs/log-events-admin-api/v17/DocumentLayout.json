@@ -1,38 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ronald87\\Desktop\\Seleccion Finaktiva\\api - copia\\log-events-admin-api\\",
+  "WorkspaceRootPath": "C:\\Users\\ronald87\\Desktop\\Seleccion Finaktiva\\logs-admin\\Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5B397EAB-B45C-4026-AF90-45AADE9A793B}|log-events-admin-api\\log-events-admin-api.csproj|c:\\users\\ronald87\\desktop\\seleccion finaktiva\\api - copia\\log-events-admin-api\\log-events-admin-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B397EAB-B45C-4026-AF90-45AADE9A793B}|log-events-admin-api\\log-events-admin-api.csproj|solutionrelative:log-events-admin-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5B397EAB-B45C-4026-AF90-45AADE9A793B}|log-events-admin-api\\log-events-admin-api.csproj|c:\\users\\ronald87\\desktop\\seleccion finaktiva\\logs-admin\\backend\\log-events-admin-api\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B397EAB-B45C-4026-AF90-45AADE9A793B}|log-events-admin-api\\log-events-admin-api.csproj|solutionrelative:log-events-admin-api\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B397EAB-B45C-4026-AF90-45AADE9A793B}|log-events-admin-api\\log-events-admin-api.csproj|c:\\users\\ronald87\\desktop\\seleccion finaktiva\\api - copia\\log-events-admin-api\\log-events-admin-api\\services\\eventlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B397EAB-B45C-4026-AF90-45AADE9A793B}|log-events-admin-api\\log-events-admin-api.csproj|solutionrelative:log-events-admin-api\\services\\eventlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5B397EAB-B45C-4026-AF90-45AADE9A793B}|log-events-admin-api\\log-events-admin-api.csproj|c:\\users\\ronald87\\desktop\\seleccion finaktiva\\logs-admin\\backend\\log-events-admin-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B397EAB-B45C-4026-AF90-45AADE9A793B}|log-events-admin-api\\log-events-admin-api.csproj|solutionrelative:log-events-admin-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B397EAB-B45C-4026-AF90-45AADE9A793B}|log-events-admin-api\\log-events-admin-api.csproj|c:\\users\\ronald87\\desktop\\seleccion finaktiva\\api - copia\\log-events-admin-api\\log-events-admin-api\\services\\ieventlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B397EAB-B45C-4026-AF90-45AADE9A793B}|log-events-admin-api\\log-events-admin-api.csproj|solutionrelative:log-events-admin-api\\services\\ieventlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5B397EAB-B45C-4026-AF90-45AADE9A793B}|log-events-admin-api\\log-events-admin-api.csproj|c:\\users\\ronald87\\desktop\\seleccion finaktiva\\logs-admin\\backend\\log-events-admin-api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B397EAB-B45C-4026-AF90-45AADE9A793B}|log-events-admin-api\\log-events-admin-api.csproj|solutionrelative:log-events-admin-api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B397EAB-B45C-4026-AF90-45AADE9A793B}|log-events-admin-api\\log-events-admin-api.csproj|c:\\users\\ronald87\\desktop\\seleccion finaktiva\\api - copia\\log-events-admin-api\\log-events-admin-api\\requests\\eventlogrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B397EAB-B45C-4026-AF90-45AADE9A793B}|log-events-admin-api\\log-events-admin-api.csproj|solutionrelative:log-events-admin-api\\requests\\eventlogrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B397EAB-B45C-4026-AF90-45AADE9A793B}|log-events-admin-api\\log-events-admin-api.csproj|c:\\users\\ronald87\\desktop\\seleccion finaktiva\\api - copia\\log-events-admin-api\\log-events-admin-api\\requests\\eventlogtyperequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B397EAB-B45C-4026-AF90-45AADE9A793B}|log-events-admin-api\\log-events-admin-api.csproj|solutionrelative:log-events-admin-api\\requests\\eventlogtyperequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B397EAB-B45C-4026-AF90-45AADE9A793B}|log-events-admin-api\\log-events-admin-api.csproj|c:\\users\\ronald87\\desktop\\seleccion finaktiva\\api - copia\\log-events-admin-api\\log-events-admin-api\\requests\\eventlogfilterrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B397EAB-B45C-4026-AF90-45AADE9A793B}|log-events-admin-api\\log-events-admin-api.csproj|solutionrelative:log-events-admin-api\\requests\\eventlogfilterrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B397EAB-B45C-4026-AF90-45AADE9A793B}|log-events-admin-api\\log-events-admin-api.csproj|c:\\users\\ronald87\\desktop\\seleccion finaktiva\\api - copia\\log-events-admin-api\\log-events-admin-api\\controllers\\eventlogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5B397EAB-B45C-4026-AF90-45AADE9A793B}|log-events-admin-api\\log-events-admin-api.csproj|c:\\users\\ronald87\\desktop\\seleccion finaktiva\\logs-admin\\backend\\log-events-admin-api\\controllers\\eventlogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B397EAB-B45C-4026-AF90-45AADE9A793B}|log-events-admin-api\\log-events-admin-api.csproj|solutionrelative:log-events-admin-api\\controllers\\eventlogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B397EAB-B45C-4026-AF90-45AADE9A793B}|log-events-admin-api\\log-events-admin-api.csproj|c:\\users\\ronald87\\desktop\\seleccion finaktiva\\api - copia\\log-events-admin-api\\log-events-admin-api\\enums\\eventsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5B397EAB-B45C-4026-AF90-45AADE9A793B}|log-events-admin-api\\log-events-admin-api.csproj|c:\\users\\ronald87\\desktop\\seleccion finaktiva\\logs-admin\\backend\\log-events-admin-api\\enums\\eventsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B397EAB-B45C-4026-AF90-45AADE9A793B}|log-events-admin-api\\log-events-admin-api.csproj|solutionrelative:log-events-admin-api\\enums\\eventsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B397EAB-B45C-4026-AF90-45AADE9A793B}|log-events-admin-api\\log-events-admin-api.csproj|c:\\users\\ronald87\\desktop\\seleccion finaktiva\\logs-admin\\backend\\log-events-admin-api\\services\\eventlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B397EAB-B45C-4026-AF90-45AADE9A793B}|log-events-admin-api\\log-events-admin-api.csproj|solutionrelative:log-events-admin-api\\services\\eventlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B397EAB-B45C-4026-AF90-45AADE9A793B}|log-events-admin-api\\log-events-admin-api.csproj|c:\\users\\ronald87\\desktop\\seleccion finaktiva\\logs-admin\\backend\\log-events-admin-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B397EAB-B45C-4026-AF90-45AADE9A793B}|log-events-admin-api\\log-events-admin-api.csproj|solutionrelative:log-events-admin-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B397EAB-B45C-4026-AF90-45AADE9A793B}|log-events-admin-api\\log-events-admin-api.csproj|c:\\users\\ronald87\\desktop\\seleccion finaktiva\\logs-admin\\backend\\log-events-admin-api\\services\\ieventlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B397EAB-B45C-4026-AF90-45AADE9A793B}|log-events-admin-api\\log-events-admin-api.csproj|solutionrelative:log-events-admin-api\\services\\ieventlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B397EAB-B45C-4026-AF90-45AADE9A793B}|log-events-admin-api\\log-events-admin-api.csproj|c:\\users\\ronald87\\desktop\\seleccion finaktiva\\logs-admin\\backend\\log-events-admin-api\\requests\\eventlogrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B397EAB-B45C-4026-AF90-45AADE9A793B}|log-events-admin-api\\log-events-admin-api.csproj|solutionrelative:log-events-admin-api\\requests\\eventlogrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B397EAB-B45C-4026-AF90-45AADE9A793B}|log-events-admin-api\\log-events-admin-api.csproj|c:\\users\\ronald87\\desktop\\seleccion finaktiva\\logs-admin\\backend\\log-events-admin-api\\requests\\eventlogtyperequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B397EAB-B45C-4026-AF90-45AADE9A793B}|log-events-admin-api\\log-events-admin-api.csproj|solutionrelative:log-events-admin-api\\requests\\eventlogtyperequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B397EAB-B45C-4026-AF90-45AADE9A793B}|log-events-admin-api\\log-events-admin-api.csproj|c:\\users\\ronald87\\desktop\\seleccion finaktiva\\logs-admin\\backend\\log-events-admin-api\\requests\\eventlogfilterrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B397EAB-B45C-4026-AF90-45AADE9A793B}|log-events-admin-api\\log-events-admin-api.csproj|solutionrelative:log-events-admin-api\\requests\\eventlogfilterrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,24 +66,102 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ronald87\\Desktop\\Seleccion Finaktiva\\logs-admin\\Backend\\log-events-admin-api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "log-events-admin-api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ronald87\\Desktop\\Seleccion Finaktiva\\logs-admin\\Backend\\log-events-admin-api\\appsettings.Development.json",
+              "RelativeToolTip": "log-events-admin-api\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-18T01:21:54.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "C:\\Users\\ronald87\\Desktop\\Seleccion Finaktiva\\logs-admin\\Backend\\log-events-admin-api\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "log-events-admin-api\\appsettings.Production.json",
+              "ToolTip": "C:\\Users\\ronald87\\Desktop\\Seleccion Finaktiva\\logs-admin\\Backend\\log-events-admin-api\\appsettings.Production.json",
+              "RelativeToolTip": "log-events-admin-api\\appsettings.Production.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-18T01:24:45.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventSource.cs",
+              "DocumentMoniker": "C:\\Users\\ronald87\\Desktop\\Seleccion Finaktiva\\logs-admin\\Backend\\log-events-admin-api\\Enums\\EventSource.cs",
+              "RelativeDocumentMoniker": "log-events-admin-api\\Enums\\EventSource.cs",
+              "ToolTip": "C:\\Users\\ronald87\\Desktop\\Seleccion Finaktiva\\logs-admin\\Backend\\log-events-admin-api\\Enums\\EventSource.cs",
+              "RelativeToolTip": "log-events-admin-api\\Enums\\EventSource.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T21:53:58.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventLogController.cs",
+              "DocumentMoniker": "C:\\Users\\ronald87\\Desktop\\Seleccion Finaktiva\\logs-admin\\Backend\\log-events-admin-api\\Controllers\\EventLogController.cs",
+              "RelativeDocumentMoniker": "log-events-admin-api\\Controllers\\EventLogController.cs",
+              "ToolTip": "C:\\Users\\ronald87\\Desktop\\Seleccion Finaktiva\\logs-admin\\Backend\\log-events-admin-api\\Controllers\\EventLogController.cs",
+              "RelativeToolTip": "log-events-admin-api\\Controllers\\EventLogController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowF4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T21:16:58.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ronald87\\Desktop\\Seleccion Finaktiva\\logs-admin\\Backend\\log-events-admin-api\\appsettings.json",
+              "RelativeDocumentMoniker": "log-events-admin-api\\appsettings.json",
+              "ToolTip": "C:\\Users\\ronald87\\Desktop\\Seleccion Finaktiva\\logs-admin\\Backend\\log-events-admin-api\\appsettings.json",
+              "RelativeToolTip": "log-events-admin-api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-18T00:38:01.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventLogService.cs",
+              "DocumentMoniker": "C:\\Users\\ronald87\\Desktop\\Seleccion Finaktiva\\logs-admin\\Backend\\log-events-admin-api\\Services\\EventLogService.cs",
+              "RelativeDocumentMoniker": "log-events-admin-api\\Services\\EventLogService.cs",
+              "ToolTip": "C:\\Users\\ronald87\\Desktop\\Seleccion Finaktiva\\logs-admin\\Backend\\log-events-admin-api\\Services\\EventLogService.cs",
+              "RelativeToolTip": "log-events-admin-api\\Services\\EventLogService.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAASwGIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T21:18:08.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ronald87\\Desktop\\Seleccion Finaktiva\\api - copia\\log-events-admin-api\\log-events-admin-api\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ronald87\\Desktop\\Seleccion Finaktiva\\logs-admin\\Backend\\log-events-admin-api\\Program.cs",
               "RelativeDocumentMoniker": "log-events-admin-api\\Program.cs",
-              "ToolTip": "C:\\Users\\ronald87\\Desktop\\Seleccion Finaktiva\\api - copia\\log-events-admin-api\\log-events-admin-api\\Program.cs",
+              "ToolTip": "C:\\Users\\ronald87\\Desktop\\Seleccion Finaktiva\\logs-admin\\Backend\\log-events-admin-api\\Program.cs",
               "RelativeToolTip": "log-events-admin-api\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-17T22:18:51.215Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "EventLogTypeRequest.cs",
-              "DocumentMoniker": "C:\\Users\\ronald87\\Desktop\\Seleccion Finaktiva\\api - copia\\log-events-admin-api\\log-events-admin-api\\Requests\\EventLogTypeRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ronald87\\Desktop\\Seleccion Finaktiva\\logs-admin\\Backend\\log-events-admin-api\\Requests\\EventLogTypeRequest.cs",
               "RelativeDocumentMoniker": "log-events-admin-api\\Requests\\EventLogTypeRequest.cs",
-              "ToolTip": "C:\\Users\\ronald87\\Desktop\\Seleccion Finaktiva\\api - copia\\log-events-admin-api\\log-events-admin-api\\Requests\\EventLogTypeRequest.cs",
+              "ToolTip": "C:\\Users\\ronald87\\Desktop\\Seleccion Finaktiva\\logs-admin\\Backend\\log-events-admin-api\\Requests\\EventLogTypeRequest.cs",
               "RelativeToolTip": "log-events-admin-api\\Requests\\EventLogTypeRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -80,11 +170,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "EventLogFilterRequest.cs",
-              "DocumentMoniker": "C:\\Users\\ronald87\\Desktop\\Seleccion Finaktiva\\api - copia\\log-events-admin-api\\log-events-admin-api\\Requests\\EventLogFilterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ronald87\\Desktop\\Seleccion Finaktiva\\logs-admin\\Backend\\log-events-admin-api\\Requests\\EventLogFilterRequest.cs",
               "RelativeDocumentMoniker": "log-events-admin-api\\Requests\\EventLogFilterRequest.cs",
-              "ToolTip": "C:\\Users\\ronald87\\Desktop\\Seleccion Finaktiva\\api - copia\\log-events-admin-api\\log-events-admin-api\\Requests\\EventLogFilterRequest.cs",
+              "ToolTip": "C:\\Users\\ronald87\\Desktop\\Seleccion Finaktiva\\logs-admin\\Backend\\log-events-admin-api\\Requests\\EventLogFilterRequest.cs",
               "RelativeToolTip": "log-events-admin-api\\Requests\\EventLogFilterRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -93,11 +183,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "EventLogRequest.cs",
-              "DocumentMoniker": "C:\\Users\\ronald87\\Desktop\\Seleccion Finaktiva\\api - copia\\log-events-admin-api\\log-events-admin-api\\Requests\\EventLogRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ronald87\\Desktop\\Seleccion Finaktiva\\logs-admin\\Backend\\log-events-admin-api\\Requests\\EventLogRequest.cs",
               "RelativeDocumentMoniker": "log-events-admin-api\\Requests\\EventLogRequest.cs",
-              "ToolTip": "C:\\Users\\ronald87\\Desktop\\Seleccion Finaktiva\\api - copia\\log-events-admin-api\\log-events-admin-api\\Requests\\EventLogRequest.cs",
+              "ToolTip": "C:\\Users\\ronald87\\Desktop\\Seleccion Finaktiva\\logs-admin\\Backend\\log-events-admin-api\\Requests\\EventLogRequest.cs",
               "RelativeToolTip": "log-events-admin-api\\Requests\\EventLogRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -106,54 +196,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EventLogService.cs",
-              "DocumentMoniker": "C:\\Users\\ronald87\\Desktop\\Seleccion Finaktiva\\api - copia\\log-events-admin-api\\log-events-admin-api\\Services\\EventLogService.cs",
-              "RelativeDocumentMoniker": "log-events-admin-api\\Services\\EventLogService.cs",
-              "ToolTip": "C:\\Users\\ronald87\\Desktop\\Seleccion Finaktiva\\api - copia\\log-events-admin-api\\log-events-admin-api\\Services\\EventLogService.cs",
-              "RelativeToolTip": "log-events-admin-api\\Services\\EventLogService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T21:18:08.267Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "IEventLogService.cs",
-              "DocumentMoniker": "C:\\Users\\ronald87\\Desktop\\Seleccion Finaktiva\\api - copia\\log-events-admin-api\\log-events-admin-api\\Services\\IEventLogService.cs",
+              "DocumentMoniker": "C:\\Users\\ronald87\\Desktop\\Seleccion Finaktiva\\logs-admin\\Backend\\log-events-admin-api\\Services\\IEventLogService.cs",
               "RelativeDocumentMoniker": "log-events-admin-api\\Services\\IEventLogService.cs",
-              "ToolTip": "C:\\Users\\ronald87\\Desktop\\Seleccion Finaktiva\\api - copia\\log-events-admin-api\\log-events-admin-api\\Services\\IEventLogService.cs",
+              "ToolTip": "C:\\Users\\ronald87\\Desktop\\Seleccion Finaktiva\\logs-admin\\Backend\\log-events-admin-api\\Services\\IEventLogService.cs",
               "RelativeToolTip": "log-events-admin-api\\Services\\IEventLogService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-17T21:17:47.773Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EventLogController.cs",
-              "DocumentMoniker": "C:\\Users\\ronald87\\Desktop\\Seleccion Finaktiva\\api - copia\\log-events-admin-api\\log-events-admin-api\\Controllers\\EventLogController.cs",
-              "RelativeDocumentMoniker": "log-events-admin-api\\Controllers\\EventLogController.cs",
-              "ToolTip": "C:\\Users\\ronald87\\Desktop\\Seleccion Finaktiva\\api - copia\\log-events-admin-api\\log-events-admin-api\\Controllers\\EventLogController.cs",
-              "RelativeToolTip": "log-events-admin-api\\Controllers\\EventLogController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T21:16:58.273Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "EventSource.cs",
-              "DocumentMoniker": "C:\\Users\\ronald87\\Desktop\\Seleccion Finaktiva\\api - copia\\log-events-admin-api\\log-events-admin-api\\Enums\\EventSource.cs",
-              "RelativeDocumentMoniker": "log-events-admin-api\\Enums\\EventSource.cs",
-              "ToolTip": "C:\\Users\\ronald87\\Desktop\\Seleccion Finaktiva\\api - copia\\log-events-admin-api\\log-events-admin-api\\Enums\\EventSource.cs",
-              "RelativeToolTip": "log-events-admin-api\\Enums\\EventSource.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T21:53:58.355Z",
               "EditorCaption": ""
             }
           ]

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("log-events-admin-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32ae069b58a9bbb56679b5c686600157f66f86ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("log-events-admin-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("log-events-admin-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

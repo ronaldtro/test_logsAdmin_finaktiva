@@ -5143,11 +5143,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ronald87\\Desktop\\Seleccion Finaktiva\\api - copia\\log-events-admin-api\\log-events-admin-api\\log-events-admin-api.csproj",
+      "projectUniqueName": "C:\\Users\\ronald87\\Desktop\\Seleccion Finaktiva\\logs-admin\\Backend\\log-events-admin-api\\log-events-admin-api.csproj",
       "projectName": "log-events-admin-api",
-      "projectPath": "C:\\Users\\ronald87\\Desktop\\Seleccion Finaktiva\\api - copia\\log-events-admin-api\\log-events-admin-api\\log-events-admin-api.csproj",
+      "projectPath": "C:\\Users\\ronald87\\Desktop\\Seleccion Finaktiva\\logs-admin\\Backend\\log-events-admin-api\\log-events-admin-api.csproj",
       "packagesPath": "C:\\Users\\ronald87\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ronald87\\Desktop\\Seleccion Finaktiva\\api - copia\\log-events-admin-api\\log-events-admin-api\\obj\\",
+      "outputPath": "C:\\Users\\ronald87\\Desktop\\Seleccion Finaktiva\\logs-admin\\Backend\\log-events-admin-api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ronald87\\AppData\\Roaming\\NuGet\\NuGet.Config",

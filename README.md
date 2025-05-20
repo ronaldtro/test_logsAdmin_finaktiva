@@ -2,7 +2,7 @@
 
 <div align="center">
 
-## Proyecto - Proyecto de Gestión de Event Logs
+## Proyecto - Gestión de Event Logs
 
 </div>
 

@@ -21,6 +21,8 @@
 
 - cd /backend
 
+- Abre la solución de .net.
+
 - Ajusta la cadena de conexión local en appsettings.json:
 "Connection": "Server=(Tu instancia)\\SQLEXPRESS; DataBase=(Registration); Trusted_Connection=True; TrustServerCertificate=True;"
 
